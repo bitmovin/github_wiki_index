@@ -1,10 +1,10 @@
 Creates an index with links from a github wiki which is structured in folders
 
-## By bitmovin - Your videos play everywhere with low startup delay, no buffering and in the highest quality
+## By bitmovin
+Video encoding 100x faster than any other encoding service
+Your videos play everywhere with low startup delay, no buffering and in the highest quality
 
 <p align="center"><img src="https://cloudfront.bitmovin.com/wp-content/uploads/2014/11/Logo-bitmovin.jpg" width="400px" align="middle"/></p>
-# Video encoding 100x faster than any other encoding service
-Your videos play everywhere with low startup delay, no buffering and in the highest quality
 
 ### NETFLIX GRADE QUALITY
 Encode your content with the same technology as Netflix and YouTube in a way that it plays everywhere with low startup delay and no buffering. bitcodin encodes your content 100x faster than any other competitor while providing such a high quality output.
