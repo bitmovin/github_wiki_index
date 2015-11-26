@@ -1,5 +1,7 @@
 Creates an index with links from a github wiki which is structured in folders. An example could be found in the wiki of this page where the index will be created in the _Sidebar.md.
 
+![index example](https://raw.githubusercontent.com/bitmovin/github_wiki_index/master/index.png "index example")
+
 ## by bitmovin
 <a href="https://www.bitmovin.com"><img src="https://cloudfront.bitmovin.com/wp-content/uploads/2014/11/Logo-bitmovin.jpg" width="400px"/></a>
 
