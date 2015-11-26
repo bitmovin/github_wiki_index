@@ -1,7 +1,7 @@
 Creates an index with links from a github wiki which is structured in folders
 
 ## by bitmovin
-<a href="https://www.bitmovin.com><p align="center"><img src="https://cloudfront.bitmovin.com/wp-content/uploads/2014/11/Logo-bitmovin.jpg" width="400px" align="middle"/></p></a>
+<a href="https://www.bitmovin.com"><img src="https://cloudfront.bitmovin.com/wp-content/uploads/2014/11/Logo-bitmovin.jpg" width="400px"/></a>
 
 Video encoding 100x faster than any other encoding service
 Your videos play everywhere with low startup delay, no buffering and in the highest quality
