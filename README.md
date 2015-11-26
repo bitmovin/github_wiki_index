@@ -2,7 +2,12 @@ Creates an index with links from a github wiki which is structured in folders. A
 
 ![index example](https://raw.githubusercontent.com/bitmovin/github_wiki_index/master/index.png "index example")
 
-Just execute the script with python mk_index.py in the git of your wiki.
+## How does it work?
+
+- Clone your wiki git repo (e.g., git clone https://github.com/bitmovin/github_wiki_index.wiki.git)
+- Move mk_index.py into the folder of the wiki
+- Execute mk_index.py with _python mk_index.py_
+- Now you should see a _Sidebar.md with the index generated from your folder and file structure
 
 ## by bitmovin
 <a href="https://www.bitmovin.com"><img src="https://cloudfront.bitmovin.com/wp-content/uploads/2014/11/Logo-bitmovin.jpg" width="400px"/></a>
