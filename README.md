@@ -2,6 +2,8 @@ Creates an index with links from a github wiki which is structured in folders. A
 
 ![index example](https://raw.githubusercontent.com/bitmovin/github_wiki_index/master/index.png "index example")
 
+Just execute the script with python mk_index.py in the git of your wiki.
+
 ## by bitmovin
 <a href="https://www.bitmovin.com"><img src="https://cloudfront.bitmovin.com/wp-content/uploads/2014/11/Logo-bitmovin.jpg" width="400px"/></a>
 
